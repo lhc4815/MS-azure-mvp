@@ -1,0 +1,6 @@
+azure-functions
+azure-cosmos
+azure-identity
+openai
+aiohttp
+python-dotenv
